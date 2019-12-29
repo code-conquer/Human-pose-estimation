@@ -1,0 +1,1 @@
+Download HRNet pre-trained weights in this Catalog
